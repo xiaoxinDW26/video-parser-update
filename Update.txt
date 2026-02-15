@@ -1,4 +1,4 @@
-version=V1.0 RC2
+version=V1.0-RC2
 url=https://github.com/xiaoxinDW26/video-parser-update/releases/download/V1.0-RC2/XDMVideoPlayer_RC2.zip
 log=【V1.0 RC2】
 更新日期：2026年02月15日
@@ -12,4 +12,5 @@ log=【V1.0 RC2】
   ? 修复激活后显示未激活的问题
   ? 支持复制API链接到剪贴板
   ? 关闭播放窗口时在操作日志中显示反馈信息
+
 
