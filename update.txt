@@ -1,14 +1,15 @@
 version=V1.0 RC2
-url=https://github.com/xiaoxinDW26/video-parser-update/releases/download/V1.0-RC2/XDM Video Player.exe
-log=��V1.0 RC2��
-�������ڣ�2026��02��15��
+url=https://github.com/xiaoxinDW26/video-parser-update/releases/download/V1.0-RC2/XDMVideoPlayer_RC2.zip
+log=【V1.0 RC2】
+更新日期：2026年02月15日
 
-  ? ������Ƕ���Ź��ܣ�ʹ��pywebviewʵ����������Ƶ����
-  ? ���Ӳ��ŷ�ʽѡ�񣬿�ѡ����Ƕ���Ż����������
-  ? ��Ƕ���Ŵ��ڴ�С900x600��֧�ֵ�����С
-  ? ������Ϣ���ڴ�С800x600��֧�ֵ�����С
-  ? ʹ��subprocess����webview�������������߳�
-  ? �Ż�������棬�����Զ�ˢ��״̬����
-  ? �޸��������ʾδ���������
-  ? ֧�ָ���API���ӵ�������
-  ? �رղ��Ŵ���ʱ�ڲ�����־����ʾ������Ϣ
+  ? 新增内嵌播放功能，使用pywebview实现真正的视频播放
+  ? 添加播放方式选择，可选择内嵌播放或浏览器播放
+  ? 内嵌播放窗口大小900x600，支持调整大小
+  ? 播放信息窗口大小800x600，支持调整大小
+  ? 使用subprocess启动webview，避免阻塞主线程
+  ? 优化激活界面，添加自动刷新状态功能
+  ? 修复激活后显示未激活的问题
+  ? 支持复制API链接到剪贴板
+  ? 关闭播放窗口时在操作日志中显示反馈信息
+
